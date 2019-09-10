@@ -5,6 +5,7 @@ Here we create the interactive figure showing the transdiagnostic and illness-sp
 The plot uses bokeh and is interactive: 
 For significant FCs only:
 https://wayalan.github.io/TernaryPlot/FC_TernaryPlot.html
+
 For all 8001 FCs:
 https://wayalan.github.io/TernaryPlot/FC_TernaryPlot_all.html
 
